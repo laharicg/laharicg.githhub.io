@@ -511,7 +511,7 @@ section.portfolio {
 }
 
 .project-three-item {
-    background: url('../img/portfolio/title.jpg');
+    background: url('../img/portfolio/portfolio.png');
 }
 
 .project-five-item {
@@ -587,7 +587,7 @@ section.portfolio {
 }
 
 .about-img {
-    background: url('../img/other/bg2.jpg') no-repeat center top 40%/ cover;
+    background: url('../img/other/title.jpg') no-repeat center center/ cover;
 }
 
 .about-text {
